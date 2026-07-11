@@ -1,9 +1,7 @@
-# Hi there, I'm Michael
+# Hello there
 
 Quick summary:
-Data Analyst in San Francisco working in healthcare analytics — experienced with Python, SQL,
-and various data tools, with a growing focus on AI-assisted workflows in regulated
-environments.
+Simple github page for a few public-facing projects. Owner currently living in San Francisco working in the public sector. 
 
 ## Projects
 
