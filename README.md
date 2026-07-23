@@ -1,26 +1,18 @@
 # Hello there
 
 Quick summary:
-Simple github page for a few public-facing projects. Owner currently living in San Francisco working in the public sector. 
+Simple GitHub page for a few public-facing projects. Owner currently lives in San Francisco and works in the public sector. 
 
 ## Projects
 
-- **[LiveEarth](https://github.com/mp321/LiveEarth)** — real-time 3D globe:
+- **[LiveEarth](https://mp-live-earth.vercel.app/)** — real-time 3D globe:
   satellite imagery with live flights, weather, seismic, and ocean layers
   (React, MapLibre GL, deck.gl, Vercel serverless).
-  **[Live demo](https://mp-live-earth.vercel.app/)**
-- **[ml_toolkit](https://github.com/mp321/ml_toolkit)** — Streamlit
-  workbench for exploring, preparing, and modeling data: profiling, feature
-  engineering, model benchmarking, SHAP explainability, time-series
-  forecasting.
-- **[Practical AI](mp-practical-ai.vercel.app)** - Quick lessons to improve prompt skills with AI
-- **[Constellation Tuner](https://mp-constellation-tuner.vercel.app/)** - Super simple interactive, browser-based musical instrument
-<!-- Uncomment when the framework repo goes public:
-- **[context-framework](https://github.com/mp321/context-framework)** — a
-  file-based personal context system designed so small language models can
-  operate it reliably (index-first navigation, plain markdown, written
-  procedures).
--->
+- **[Revenue Integrity SourceWatch](https://mp321.github.io/RevInt-SourceWatch)** - automated check of official Medi-Cal and federal billing sources that flags what changed and points a human to re-verify (Python, GitHub Actions).
+- **[ml_toolkit](https://mp-ml-toolkit.vercel.app/)** - Streamlit data workbench focused on quick dataset profiling, includes ability to output a copy-ready, LLM-ready context prompt (plus feature engineering and model benchmarking).
+- **[Practical AI](https://mp-practical-ai.vercel.app/)** - quick lessons to improve prompt skills with AI.
+- **[Arcadia](https://mp-arcadia.vercel.app/)** - super simple browser-based HTML game.
+
 
 ## Contact
 
